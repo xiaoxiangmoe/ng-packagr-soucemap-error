@@ -1,0 +1,15 @@
+{
+  "name": "ng-packagr-soucemap-error",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiaoxiangmoe/ng-packagr-soucemap-error.git",
+  "author": "ZHAO Jinxiang <xiaoxiangmoe@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/compiler": "^8.2.14",
+    "@angular/compiler-cli": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "ng-packagr": "^5.7.1",
+    "typescript": "~3.5.3"
+  }
+}
